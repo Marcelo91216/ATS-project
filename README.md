@@ -1,4 +1,9 @@
 # ATSProject
+
+## Node JS
+
+This project is managed by Node version 22.9.0
+
 ## Front-End
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
