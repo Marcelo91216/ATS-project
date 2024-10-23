@@ -1,0 +1,12 @@
+.subtitle {
+    color: orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    padding-left: 30%;
+}
